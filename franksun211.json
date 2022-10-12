@@ -170,7 +170,6 @@
 //{"key": "dr_百忙无果","name": " 🌼百忙无果(dr)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=百忙无果","searchable": 2,"quickSearch": 0,"filterable": 1},
 //{"key": "dr_优酷","name": " 🌼优酷(dr)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=优酷","searchable": 2,"quickSearch": 0,"filterable": 1},
 
-{"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
 
 //{"key": "dr_两个BT","name": " 🌼两个BT","type": 1,"api": "https://drpy.justmiss.repl.co/vod?rule=两个BT","searchable": 2,"quickSearch": 0,"filterable": 0},
 //{"key":"dr_特狗影视","name":"🔃特狗影视(道长)","type":1,"api":"http://catvod.fun:5705/vod?rule=特狗影视","searchable":1,"quickSearch":1,"filterable":0},
